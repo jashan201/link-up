@@ -25,13 +25,13 @@ body {
 
   .custom-design{
     background-color: rgb(24, 126, 185);
-    color: white;
+    color: #fff;
     border-radius: 5px;
     margin-left: 4px;
     padding: 0 5px;
   }
   .right-panel {
-    background-image: linear-gradient(to left, rgba(248, 248, 248, 0.8), rgba(199, 199, 199, 0));
+    background-image: linear-gradient(to left, #fff, rgba(199, 199, 199, 0));
     display: grid;
     flex-direction: column;
     box-sizing: border-box;
